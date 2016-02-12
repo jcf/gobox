@@ -1,0 +1,18 @@
+* Box
+
+  Prints a table of colours to help remind me which number does what.
+
+** Installation
+
+  No packaging I'm afraid. You'll have to build the thing and put it on your
+  ~$PATH~.
+
+  #+begin_src sh
+    go build -o box
+  #+end_src
+
+** License
+
+   Copyright © 2016 James Conroy-Finn.
+
+   Released under the MIT license.
